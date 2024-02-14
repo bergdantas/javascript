@@ -1,12 +1,12 @@
-# javascript
-<p>Material de aulas do professor Berg Dantas</p>
+# :octopus: javascript
+Material de aulas do professor Berg Dantas
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<!-- ![Berg Dantas](https://github.com/bergdantas/bergdantas.github.io/blob/main/logo.png) -->
+<!-- ![Berg Dantas](https://github.com/bergdantas/bergdantas.github.io/blob/main/logo.png) 
 
 :construction: Projeto em construção :construction:
 
 outro 
 
-> :construction: Projeto em construção :construction:
+> :construction: Projeto em construção :construction: -->
