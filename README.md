@@ -30,9 +30,13 @@ Para código inline, use crases. Para blocos de código, use três crases ``` ou
 
 ```
 console.log("mensagem");
+```
+
+
 
 ~~~~
 console.log("mensagem");
+~~~~
 
 > With hreat powers, 
 
