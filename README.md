@@ -3,14 +3,9 @@ Materiais de aulas do professor Berg Dantas
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<!-- ![Berg Dantas](https://github.com/bergdantas/bergdantas.github.io/blob/main/logo.png) 
+___
 
-:construction: Projeto em construção :construction:
-
-outro 
-
-> :construction: Projeto em construção :construction: -->
-teste
+teste doas itens postados no slide:
 
 *itálico*
 _itálico_
@@ -18,38 +13,34 @@ _itálico_
 __negrito__
 **_negrito e itálico_**
 
+
 Como criar uma lista? 
 - Item de lista não ordenada
 * Outro item de lista não ordenada
 1. Item de lista ordenada
 2. Outro item de lista ordenada
 
-[GitHub](https://github.com) 
-
-Para código inline, use crases. Para blocos de código, use três crases ``` ou três tils ~~~, opcionalmente seguidos de uma linguagem para sintaxe específica.
-
 ```
 console.log("mensagem");
 ```
-
-
-
 ~~~~
 console.log("mensagem");
 ~~~~
 
-> With hreat powers, 
+> With great power comes great responsibility.
 
 | Integrante | Atuação |
-|-------------|-------------|
-| Berg  | Designer  |
+|------------|---------|
+| Berg | Desenvolvedor   |
 
-Para adicionar uma linha horizontal, use três ou mais asteriscos ***, hífens ---, ou sublinhados ___.
+
 
 ---
-
+:construction: Projeto em construção
 ___
 
+[GitHub](https://github.com) 
 
+![Berg Dantas](https://github.com/bergdantas/bergdantas.github.io/blob/main/logo.png)
 
 
