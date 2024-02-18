@@ -1,6 +1,7 @@
 /*
 *Como manipulei o DOM, seque o material complementar: https://www.w3schools.com/jsref/dom_obj_document.asp 
 */
+//função principal
 function calcula(){
     //faz a captura de um valor do input do html e faz o casting
     var salario = Number(document.getElementById("salario").value);
@@ -8,13 +9,13 @@ function calcula(){
     //chama a função que calcula o desconto do IRPF
     var impostoDeRenda = testaIntervalo(salario);
     
-    //faz o envio do resultado do resultado da funçaõ calcula() para o campo do HTML de id resultado
+    //faz o envio do resultado do resultado da função calcula() para o campo do HTML de id resultado
     document.getElementById("resultado").innerHTML = "O valor do salário com o desconto do IRPF é: "+impostoDeRenda;
 }
 
+//testa intervalos.
 function testaIntervalo(valor){
     var valor, percent = 27.5;
-    //testa intervalos.
     //matei a última condição e não a primeira, como tinha feito na aula.
     if(valor<2259.21){
         percent = 0;        
