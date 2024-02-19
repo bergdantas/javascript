@@ -15,7 +15,7 @@ function calcula(){
 
 //testa intervalos.
 function testaIntervalo(valor){
-    var valor, percent = 27.5;
+    var percent = 27.5;
     //matei a última condição e não a primeira, como tinha feito na aula.
     if(valor<2259.21){
         percent = 0;        
