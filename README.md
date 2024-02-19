@@ -8,6 +8,8 @@ Materiais de aulas do professor Berg Dantas
 [Tipos de dados](https://github.com/bergdantas/javascript/tree/main/tiposDeDados)
 
 [Operações](https://github.com/bergdantas/javascript/tree/main/operacoes)
+
+[Condicionais: if](https://github.com/bergdantas/javascript/tree/main/if)
 <!--
 ___
 teste dos itens postados no slide:
