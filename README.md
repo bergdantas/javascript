@@ -3,6 +3,9 @@ Materiais de aulas do professor Berg Dantas
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+##Projetos
+[Tipos de dados](https://github.com/bergdantas/javascript/tree/main/tiposDeDados)
+[Operações](https://github.com/bergdantas/javascript/tree/main/operacoes)
 <!--
 ___
 teste dos itens postados no slide:
