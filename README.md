@@ -10,6 +10,8 @@ Materiais de aulas do professor Berg Dantas
 [Operações](https://github.com/bergdantas/javascript/tree/main/operacoes)
 
 [Condicionais: if](https://github.com/bergdantas/javascript/tree/main/if)
+
+[Condicionais: operador ternário](https://github.com/bergdantas/javascript/tree/main/ternario)
 <!--
 ___
 teste dos itens postados no slide:
