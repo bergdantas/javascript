@@ -13,14 +13,14 @@ Materiais de aulas do professor Berg Dantas
 
 [Condicionais: operador ternário](https://github.com/bergdantas/javascript/tree/main/ternario)
 
-[Condicionais: switch-case](Calma)
+[Condicionais: switch-case](Calma) :construction: 
 
-[Repetição: while](Calma)
+[Repetição: while](Calma) :construction: 
 
-[Repetição: do-while](Calma)
+[Repetição: do-while](Calma) :construction: 
 
-[Repetição: for](Calma)
+[Repetição: for](Calma) :construction: 
 
-[Repetição: vetor](Calma)
+[Estrutura de dados: vetor](Calma) :construction: 
 
-[Repetição: matriz](Calma)
+[Estrutura de dados: matriz](Calma) :construction: 
