@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!-- Associação com o arquivo css -->
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
+    <title>Exemplo de switch-case</title>
+</head>
+<body>
+    <!-- Entrada de dados -->
+    <label for="salario">Digite o salário</label>
+    <input type="text" placeholder="digite o salário" id="salario" />
+    
+    <!-- Botões de rádio -->
+    <p>Você deseja solicitar auxílio transporte?</p>
+    <form id="solicita">
+        <input type="radio" name="opcao" id="sim" value="sim">
+        <label for="sim">Sim</label>
+      
+        <input type="radio" name="opcao" id="nao" value="nao">
+        <label for="nao">Não</label>
+      </form>
+      <button onclick="calcula()" id="calcula">Calcular</button>
+    <br />
+
+    <!-- Campo que será mostrado ou ocultado, de acordo com o botão de rádio selecionado -->
+    <div id="valeArea">
+        <label for="valeTransporte">Digite o valor do vale transporte diário</label>
+        <input type="text" placeholder="digite o valor do vale transporte diário" id="valeTransporte" />
+        <br />
+        <button onclick="calculaVale()">Calcular o valor do vale transporte</button>
+    </div>
+
+    <!-- Campo que utilizarei para fazer a saída de dados -->
+    <p id="resultadoSalario"></p>
+    <p id="resultadoVale"></p>
+
+    <!-- Associação com o arquivo js -->
+    <script src="js/script.js"></script>
+</body>
+</html>
