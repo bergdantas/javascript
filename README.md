@@ -12,44 +12,10 @@ Materiais de aulas do professor Berg Dantas
 [Condicionais: if](https://github.com/bergdantas/javascript/tree/main/if)
 
 [Condicionais: operador ternário](https://github.com/bergdantas/javascript/tree/main/ternario)
-<!--
-___
-teste dos itens postados no slide:
-___
 
-
-*itálico*
-_itálico_
-**negrito**
-__negrito__
-**_negrito e itálico_**
-
-
-Listas 
-- Item de lista não ordenada
-* Outro item de lista não ordenada
-1. Item de lista ordenada
-2. Outro item de lista ordenada
-
-```
-console.log("código");
-```
-~~~~
-console.log("outro código");
-~~~~
-
-> With great power comes great responsibility.
-
-| Integrante | Atuação |
-|------------|---------|
-| Berg | Desenvolvedor   |
-
----
-:construction: Projeto em construção
-___
-
-[GitHub](https://github.com) 
-
-![Berg Dantas](https://github.com/bergdantas/bergdantas.github.io/blob/main/logo.png)
-
--->
+[Condicionais: switch-case](Calma)
+[Repetição: while](Calma)
+[Repetição: do-while](Calma)
+[Repetição: for](Calma)
+[Repetição: vetor](Calma)
+[Repetição: matriz](Calma)
