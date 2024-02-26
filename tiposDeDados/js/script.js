@@ -7,7 +7,7 @@ var varMatriz = [[1, 3],[5, 6],[5, 6]];
 var varDate = new Date(2024,1,16);
 var varFunction = soma(3,4);
 
-//a funçaõ também é um tipo de dado
+//a função também é um tipo de dado
 function soma(a,b){
     return a+b;
 }
