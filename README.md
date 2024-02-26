@@ -13,7 +13,7 @@ Materiais de aulas do professor Berg Dantas
 
 [Condicionais: operador ternário](https://github.com/bergdantas/javascript/tree/main/ternario)
 
-[Condicionais: switch-case](Calma) :construction: 
+[Condicionais: switch-case](https://github.com/bergdantas/javascript/tree/main/switch) 
 
 [Repetição: while](Calma) :construction: 
 
