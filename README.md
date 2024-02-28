@@ -15,11 +15,11 @@ Materiais de aulas do professor Berg Dantas
 
 [Condicionais: switch-case](https://github.com/bergdantas/javascript/tree/main/switch) 
 
-[Repetição: while](Calma) :construction: 
+[Repetição: while](https://github.com/bergdantas/javascript/tree/main/while)
 
-[Repetição: do-while](Calma) :construction: 
+[Repetição: do-while](https://github.com/bergdantas/javascript/tree/main/do) 
 
-[Repetição: for](Calma) :construction: 
+[Repetição: for](https://github.com/bergdantas/javascript/tree/main/for) 
 
 [Estrutura de dados: vetor](Calma) :construction: 
 
