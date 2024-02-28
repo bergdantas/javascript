@@ -1,0 +1,27 @@
+#ctn-principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagem, #res, #soma{
+    display: flex;
+    justify-content: center;
+}
+
+#imagem:hover{
+    filter: grayscale(100%);
+    opacity: 50%;
+}
+
+.texto {
+    display:flex;
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 2px #fff;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.3s ease;
+}

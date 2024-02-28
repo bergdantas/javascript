@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!-- Associação com o arquivo css -->
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
+    <title>Exemplo de while</title>
+</head>
+<body>
+    <div id="texto">
+        <p>Em uma tarde poeirenta de Los Angeles, nos recônditos da década de 1930, um professor de matemática barbudo e cansado, com olhos cansados de quem já viu mais equações do que rostos humanos, encarou seu desafio mais insólito. Era um tal de Gauss, um mero aprendiz das fórmulas e incógnitas, que se atreveu a questionar a ordem estabelecida.</p>
+        <p>O professor, um veterano das áridas terras acadêmicas, esfregou as mãos com desdém ao receber a inusitada proposta: somar os números de 1 até 100. Uma tarefa que parecia trivial para mentes comuns, mas que, nas mãos de Gauss, transformou-se numa jornada transcendental.</p>
+        <p>Gauss, de olhar penetrante e mente afiada, desafiou a mesmice dos métodos convencionais. Em vez de somar um a um, ele percebeu padrões, conexões ocultas que escapavam à percepção comum. Uma epifania matemática o iluminou como uma cerveja barata em uma noite de sexta-feira.</p>
+        <p>Com uma destreza peculiar, Gauss somou o primeiro e o último número, o segundo e o penúltimo, e assim por diante. Uma dança numérica que desafiava as regras do establishment. Enquanto seus colegas se perdiam nos meandros enfadonhos das somas lineares, Gauss emergia como o maestro das fórmulas.</p>
+        <p>O professor, inicialmente cético, observou com surpresa a genialidade emergir do caos dos números. Em suas mãos calosas, as palavras "Teorema da Soma de Gauss" começaram a adquirir um significado lendário. O desafio simples tornou-se uma lenda matemática, um conto narrado entre os corredores empoeirados das instituições acadêmicas.</p>
+        <p>E assim, naquela tarde poeirenta de Los Angeles, Gauss não apenas somou de 1 até 100, mas transcendeu as limitações do método convencional, erguendo-se como um rebelde intelectual em um mundo onde a lógica era ditada pelas mentes convencionais. O professor, mesmo cansado, contemplou o gênio que desafiou a mesmice, elevando a matemática a uma dança de números que ecoaria pelos séculos.</p>
+    </div>
+    <p><sup>*Texto gerado pelo chatGPT V3.5, contando a história de Gauss com o estilo literário de Charles Bukowski</sup></p>
+    <div id="ctn-principal">
+        <div id="imagem">
+            <img src="images/gauss.webp" alt="Gauss" width="15%" />
+            <br />
+            <div class="texto">While</div>
+        </div>
+    </div>
+
+    <!-- é péssimo fazer isso, mas é tão cômodo!  =~~  -->
+    <br />
+    <br />
+    <br />
+
+    <!-- Entrada de dados -->
+    <div id="soma">
+        <label for="vI">Digite o valor inicial</label>
+        <input type="text" placeholder="Valor inicial" id="vI" />
+        <label for="vF">Digite o valor final</label>
+        <input type="text" placeholder="valor final" id="vF" />
+        <button onclick="calcula()" id="calcula">Somar intervalo</button>
+    </div>
+
+    <!-- Campo que utilizarei para fazer a saída de dados -->
+    <div id="res">
+        <p id="resultado"></p>
+    </div>
+
+    <!-- Associação com o arquivo js -->
+    <script src="js/script.js"></script>
+</body>
+</html>
