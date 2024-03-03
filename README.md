@@ -1,5 +1,5 @@
 # :octopus: javascript
-Materiais de aulas do professor Berg Dantas
+Materiais de aulas do professor @bergdantas
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -25,4 +25,6 @@ Materiais de aulas do professor Berg Dantas
 
 ## Particularidades e estranhezas do Javascript
 
-[Içamento (hoisting)](Calma) :construction:
+[Içamento (hoisting)](https://github.com/bergdantas/javascript/tree/main/particularidades/hoisting) 
+
+<!--[tema](url) :construction:-->
