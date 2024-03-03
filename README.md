@@ -3,7 +3,7 @@ Materiais de aulas do professor Berg Dantas
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-## Projetos
+## Conhecendo a linguagem
 
 [Tipos de dados](https://github.com/bergdantas/javascript/tree/main/tiposDeDados)
 
@@ -23,5 +23,6 @@ Materiais de aulas do professor Berg Dantas
 
 [Estrutura de dados: vetor](https://github.com/bergdantas/javascript/tree/main/vetor)
 
-##Particularidades e estranhezas do Javascript
+## Particularidades e estranhezas do Javascript
+
 [Içamento (hoisting)](Calma) :construction:
