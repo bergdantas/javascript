@@ -21,6 +21,7 @@ Materiais de aulas do professor Berg Dantas
 
 [Repetição: for](https://github.com/bergdantas/javascript/tree/main/for) 
 
-[Estrutura de dados: vetor](Calma) :construction: 
+[Estrutura de dados: vetor](https://github.com/bergdantas/javascript/tree/main/vetor)
 
-[Estrutura de dados: matriz](Calma) :construction: 
+##Particularidades e estranhezas do Javascript
+[Içamento (hoisting)](Calma) :construction:
