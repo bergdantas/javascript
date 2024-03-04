@@ -1,5 +1,4 @@
 //Exemplo 1: uso uma função (que é um tipo de dado) antes da declaração
-
 //uso a função soma
 var c = soma(7,3);
 console.log(c);
