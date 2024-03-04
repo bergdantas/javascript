@@ -24,7 +24,15 @@ Materiais de aulas do professor @bergdantas
 [Estrutura de dados: vetor](https://github.com/bergdantas/javascript/tree/main/vetor)
 
 ## Particularidades e estranhezas do Javascript
+[Entrada de dados](Calma_Calabrezo) :construction:
+
+[Saída de dados](https://github.com/bergdantas/javascript/tree/main/particularidades/saida)
+
+[Aleatório](https://github.com/bergdantas/javascript/tree/main/particularidades/random)
 
 [Içamento (hoisting)](https://github.com/bergdantas/javascript/tree/main/particularidades/hoisting) 
 
+<!--[tema](url) :construction:-->
+<!--[tema](url) :construction:-->
+<!--[tema](url) :construction:-->
 <!--[tema](url) :construction:-->
