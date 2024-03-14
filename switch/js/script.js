@@ -5,7 +5,7 @@
 function calcula(){
     //faz a captura de um valor do input do html e faz o casting
     var salario = Number(document.getElementById("salario").value);
-
+    var novoSalario;
     //manipula os botões de rádio
     const btn = document.querySelector("#calcula"); //estou tendo que apertar 2x. Testar essa função em outros navegadores!        
     const radioButtons = document.querySelectorAll('input[name="opcao"]');
@@ -23,7 +23,8 @@ function calcula(){
         switch (opcaoSelecionada) {
             case "sim":
               // faz o envio do resultado da função calcula() para o campo do HTML de id resultadoSalario
-              resultadoSalario.innerText = "Salário: " + (novoSalario - (novoSalario * (6 / 100)));
+              novoSalario = (salario - (salario * (6 / 100)));
+              resultadoSalario.innerText = "Salário: " + novoSalario;
               calculaVale();
               break;
             case "nao":
