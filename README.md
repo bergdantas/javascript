@@ -32,7 +32,8 @@ Materiais de aulas do professor @bergdantas
 
 [Içamento (hoisting)](https://github.com/bergdantas/javascript/tree/main/particularidades/hoisting) 
 
-<!--[tema](url) :construction:-->
+[Temporizadores: setInterval e setTimeout](https://github.com/bergdantas/javascript/tree/main/particularidades/temporizadores)
+
 <!--[tema](url) :construction:-->
 <!--[tema](url) :construction:-->
 <!--[tema](url) :construction:-->
