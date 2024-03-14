@@ -2,7 +2,8 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Exemplo de operador ternário</title>
+    <title>Vetor</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
     <p>Nos vetores:</p>
@@ -19,7 +20,13 @@
     <button onclick="concatena()">concat</button>
     <button onclick="varre()">forEach</button>
     <button onclick="copiaVetor()">map</button>
-    
+    <button onclick="buscaIndice()">indexOf</button>
+
+    <div id="indice">
+        <label for="buscaPeloIndice">Qual o valor que você quer buscar?</label>
+        <input type="text" id="buscaPeloIndice">
+        <button onclick="busca()">Busca </button>
+    </div>
     <!-- Campo que utilizarei para fazer a saída de dados -->
     <p id="resultado"></p>
 

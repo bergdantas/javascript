@@ -72,3 +72,12 @@ function copiaVetor(){
     let novoVetorDePalavras = vetorDePalavras.map(item => item+"Oi");//retorna o vetor com as posições 1 e 2
     document.getElementById("resultado").innerHTML = novoVetorDeNumeros +" <br /> "+ novoVetorDePalavras;
 }
+
+function buscaIndice(){
+    indice.style.display = "block";   
+}
+
+function busca(){
+    let valor = Number(document.getElementById("buscaPeloIndice").value);
+    document.getElementById("resultado").innerHTML = vetorDeNumeros.indexOf(valor);
+}
